@@ -16,7 +16,8 @@ setup(
         'future',
         'scipy',
         'jax',
-        'jaxlib'
+        'jaxlib',
+        'kronicle-sdk'
         # other dependencies
     ],
     entry_points={
