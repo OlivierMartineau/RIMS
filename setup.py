@@ -9,7 +9,8 @@ setup(
         'dask[array]<=2023.5.0',
         'dask-ms==0.2.21',
         'xarray==2024.7.0',
-        'psutil<=5.9.3'
+        'psutil<=5.9.3',
+        'kronicle-sdk>=0.2.3'
         # other dependencies
     ],
     entry_points={
